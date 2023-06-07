@@ -5,14 +5,16 @@ floopEngine is the engine powering [live.floop](https://jaytobin.gumroad.com/l/l
 
 ## download instructions
 
-download the floopEngine.maxpat file and put it somewhere safe. Next, open Max, tap File -> Show File Browser, then tap the "Add Files to Search Path" button.
+download the floopEngine.maxpat file and put it somewhere safe. Should you have trouble downloading only the file, you can always **double-click floopEngine.maxpat, tap the "raw" button, hit ctrl+A** (or cmd, if that's more your thing) **to copy all text, head to File in Max, and tap "new from clipboard" then save the resulting patch as "floopEngine."**
+
+To get floopEngine to show up when you type it in, **open Max, tap File -> Show File Browser, then tap the "Add Files to Search Path" button.**
 Go to wherever you've saved floopEngine.maxpat, double-click it, and you should be good to go!
 
-## general things
+## operation
 
 here's a quick rundown of the inlets that make floopEngine work:
 
-image goes here
+![alt text](https://github.com/tobinja1/floopEngine/blob/main/floopEngineClip.PNG "floopEngine screenshot")
 
 **inlet 1:** loads an audio file after being banged
 
@@ -30,7 +32,7 @@ image goes here
 
 **inlet 8:** toggles between oneshot or loop mode (0 for loop, 1 for oneshot)
 
-##license and whatnot
+## licensing and contact info
 
 please mess with this and do with it as you will, floopEngine's guts are made to be mangled! This maxpat is shared under the MIT Creative Commons License to be both used,
 edited, and redistributed, but do be a mensch and mention me if you're sharing it with folks!
