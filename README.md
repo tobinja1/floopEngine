@@ -1,3 +1,5 @@
+![alt text](https://github.com/tobinja1/floopEngine/blob/main/floopenginelogo.PNG "floopEngine Logo")
+
 # floopEngine
 An audio looping abstraction for Max/MSP
 
