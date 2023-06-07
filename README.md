@@ -5,7 +5,7 @@ floopEngine is the engine powering [live.floop](https://jaytobin.gumroad.com/l/l
 
 ## download instructions
 
-download the floopEngine.maxpat file and put it somewhere safe. Should you have trouble downloading only the file, you can always **double-click floopEngine.maxpat, tap the "raw" button, hit ctrl+A** (or cmd, if that's more your thing) **to copy all text, head to File in Max, and tap "new from clipboard" then save the resulting patch as "floopEngine."**
+download the floopEngine.maxpat file and put it somewhere safe. Should you have trouble downloading only the file, you can always **double-click floopEngine.maxpat, tap the "raw" button towards the top-right of the code box, hit ctrl+A** (or cmd, if that's more your thing) **to copy all text, head to File in Max, and tap "new from clipboard" then save the resulting patch as "floopEngine."**
 
 To get floopEngine to show up when you type it in, **open Max, tap File -> Show File Browser, then tap the "Add Files to Search Path" button.**
 Go to wherever you've saved floopEngine.maxpat, double-click it, and you should be good to go!
